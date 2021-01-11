@@ -1,5 +1,6 @@
 # Notes-Taking-App
 A notes-taking application using Nodejs
+
 Functionalities:
 1. Adding Notes
 2. Removing Notes
